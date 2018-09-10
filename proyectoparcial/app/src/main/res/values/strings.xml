@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Listas</string>
+    <string name="name">Nombre</string>
+    <string name="direccion">Direccion</string>
+    <string name="telefono">Telefono</string>
+    <string name="error_generico">Se presento un error</string>
+    <string name="mensaje_generico_guardar">Se guardo</string>
+
+    <string name="nombres">Nombres</string>
+    <string name="apellido">Apellido</string>
+    <string name="carrera">Carrera</string>
+    <string name="guardar">Cerrar Sesion</string>
+    <string name="enviar">Enviar</string>
+    <string name="volver">Volver al Inicio</string>
+    <string name="formulario_adventista">Permisos UNAC</string>
+    <string name="foto">Foto</string>
+    <string name="todo">TODO</string>
+    <string name="info_personal">Info Personal</string>
+    <string name="error_nombre">Ingrese el nombre</string>
+    <string name="error_apellido">Ingrese el apellido</string>
+    <string name="error_sexo">Seleccione un Genero</string>
+</resources>
